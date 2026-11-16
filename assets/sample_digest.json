@@ -1,0 +1,1158 @@
+{
+  "digestDate": "2026-11-14",
+  "articles": [
+    {
+      "id": 31,
+      "source": "github",
+      "title": "deepseek-ai/DeepInfer",
+      "headlineJa": "deepseek-ai/DeepInfer",
+      "summaryJa": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "detailJa": "DeepInferは、DeepSeekのモデルを対象とした推論フレームワークです。DeepInferは、High-performance, large-scale inference framework for DeepSeek modelsと説明されています。リポジトリ名はdeepseek-ai/DeepInferで、ソースはGitHubです。主な言語はPythonです。大規模な推論を想定した枠組みであることが、説明からは読み取れます。ただし、対応する具体的なDeepSeekモデルの種類やバージョン、対応する機能の一覧、利用する技術や動作環境、使い方の手順については、与えられた情報からは不明です。ライセンスについても、与えられた情報からは不明です。そのため、導入や利用を検討する際は、元のページで詳細を確認する必要があります。",
+      "strengthsJa": "与えられた情報では、性能を示すベンチマークの数値や、他の推論フレームワークとの比較は示されていません。説明にはHigh-performanceやlarge-scaleという表現がありますが、その根拠となる具体的な数値や仕組みは与えられた情報からは不明です。そのため、公開情報からは優位性を確認できない、というのが正直な評価です。導入のしやすさやライセンスについても、与えられた情報からは判断できません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "DeepInfer",
+          "explanation": "DeepSeekのモデルを使うための推論の枠組みの名前です。ここでは、そのリポジトリや仕組みを指す呼び名として使われています。"
+        },
+        {
+          "term": "DeepSeek",
+          "explanation": "大規模なAIモデルを開発している組織や、そのモデルの名前として知られる名称です。"
+        },
+        {
+          "term": "推論フレームワーク",
+          "explanation": "学習済みのAIモデルに質問や入力を与えて、答えや出力を得る処理を、効率よく行うための土台となるソフトウェアのことです。"
+        },
+        {
+          "term": "High-performance",
+          "explanation": "処理の速さや効率が高いことを表す英語の表現です。ここでは、推論の性能が高いことをうたう言葉として使われています。"
+        },
+        {
+          "term": "large-scale",
+          "explanation": "規模が大きいことを表す英語の表現です。ここでは、大きな規模の推論を想定していることを示しています。"
+        },
+        {
+          "term": "inference framework",
+          "explanation": "AIモデルが入力から出力を作る「推論」を実行するための枠組みを指す英語の表現です。日本語では推論フレームワークにあたります。"
+        },
+        {
+          "term": "deepseek-ai/DeepInfer",
+          "explanation": "GitHub上でこのプロジェクトを示すリポジトリの名前です。前半が公開元の組織、後半がプロジェクト名を表しています。"
+        },
+        {
+          "term": "GitHub",
+          "explanation": "プログラムのソースコードなどを公開・共有するためのウェブサイトです。開発者がコードを置いたり、協力して改良したりする場として使われます。"
+        },
+        {
+          "term": "Python",
+          "explanation": "読みやすく書きやすいことで広く使われているプログラミング言語です。AIやデータ処理の分野でもよく利用されます。"
+        },
+        {
+          "term": "大規模な推論",
+          "explanation": "大量の入力や大きなモデルを扱う、規模の大きな推論のことです。多くの計算や処理が必要になる場合があります。"
+        },
+        {
+          "term": "ベンチマーク",
+          "explanation": "ソフトウェアやAIモデルの性能を、決まった方法で測って比べるための指標や試験のことです。数値で性能を示すときによく使われます。"
+        },
+        {
+          "term": "ライセンス",
+          "explanation": "ソフトウェアの利用条件を定めた決まりのことです。自由に使えるか、改変や配布ができるかなどが書かれています。"
+        },
+        {
+          "term": "動作環境",
+          "explanation": "ソフトウェアが動くために必要なパソコンやOS、周辺のソフトなどの条件のことです。導入前に確認する目安になります。"
+        },
+        {
+          "term": "モデル",
+          "explanation": "AIが学習によって身につけた知識や計算の仕組みを、ファイルなどの形にしたものです。入力を受け取り、予測や文章などの出力を作ります。"
+        }
+      ],
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "metricLabel": "★ 25,962",
+      "secondaryMetric": "フォーク 3,188",
+      "tags": [],
+      "language": "Python",
+      "growthRate": 907.8
+    },
+    {
+      "id": 32,
+      "source": "github",
+      "title": "Minireel/HGhub",
+      "headlineJa": "Minireel/HGhub",
+      "summaryJa": "YellowFruit third-party client",
+      "detailJa": "HGhubは、YellowFruitのサードパーティクライアントとして公開されていたGitHub上のリポジトリです。READMEによれば、作者は慎重に検討したうえで、個人の理由によりメンテナンスの停止を決めました。それに伴い、リポジトリ内のコードやバージョンリリース、ビルド記録は撤下され、現在はこの決定を伝える説明だけが残されています。作者は、コードの貢献や提案、フィードバックを寄せた人々や、注目・利用・支援してきた人々への感謝を記しています。一方で、プロジェクトの継続を期待していた人々への謝罪や、時間を投入した貢献者への謝意も述べています。また作者は自身が平安であることや、上流やいかなる機関から処理を受けたわけではないことを明言し、今回の調整は完全に個人の理由によるものであるとしています。公開情報からは、使用言語や具体的な機能、対応環境、使い方といった技術的な詳細は不明です。したがって、与えられた情報だけでは、現在のリポジトリからクライアントの機能を試すことはできません。",
+      "strengthsJa": "公開情報からは、HGhubの優位性を確認できません。READMEには性能の数値やベンチマーク、設計上の工夫、具体的な機能の説明は含まれていません。さらに、コードやバージョンリリース、ビルド記録は撤下されており、機能や使い勝手を実物から確かめることもできません。したがって、他のクライアントより優れているかどうかは、与えられた情報だけでは判断できません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "YellowFruit",
+          "explanation": "HGhubが対応していた対象のサービスや製品の名前です。詳しい内容は与えられた情報からは分かりません。"
+        },
+        {
+          "term": "サードパーティクライアント",
+          "explanation": "公式ではなく、第三者が作った利用用のソフトやアプリのことです。ここではYellowFruitを使うための、公式以外が開発したクライアントを指します。"
+        },
+        {
+          "term": "GitHub",
+          "explanation": "プログラムのコードなどを公開・共有・管理するためのウェブサイトです。開発者が協力して作る場としても使われます。"
+        },
+        {
+          "term": "リポジトリ",
+          "explanation": "コードや関連する記録をまとめて保存しておく場所のことです。GitHubではプロジェクトごとに作られます。"
+        },
+        {
+          "term": "README",
+          "explanation": "リポジトリの説明書きのことです。プロジェクトの概要や注意点などが書かれることが多いです。"
+        },
+        {
+          "term": "メンテナンス",
+          "explanation": "ソフトの不具合を直したり、新しい環境に対応したりして、使い続けられるように手入れをすることです。"
+        },
+        {
+          "term": "コード",
+          "explanation": "コンピュータに何をさせるかを書いた命令の集まりです。ソフトの本体を作るための文章のようなものです。"
+        },
+        {
+          "term": "バージョンリリース",
+          "explanation": "ソフトの特定の版を、利用できる形で公開することです。新しい版が出ると機能追加や修正が含まれることがあります。"
+        },
+        {
+          "term": "ビルド記録",
+          "explanation": "ソフトを動く形に組み立てる作業の記録のことです。いつ、どの版を作ったかなどが残ります。"
+        },
+        {
+          "term": "上流",
+          "explanation": "あるソフトやプロジェクトの元になった開発元や、元のプロジェクトのことです。"
+        },
+        {
+          "term": "ベンチマーク",
+          "explanation": "ソフトや機械の速さや性能を、決まった方法で測って比べるための指標やテストのことです。"
+        },
+        {
+          "term": "貢献者",
+          "explanation": "プロジェクトにコードの提供や提案などで協力した人のことです。"
+        },
+        {
+          "term": "フィードバック",
+          "explanation": "使ってみた感想や不具合の報告、改善の提案などのことです。開発者に伝えられます。"
+        }
+      ],
+      "url": "https://github.com/Minireel/HGhub",
+      "metricLabel": "★ 8,817",
+      "secondaryMetric": "フォーク 6,443",
+      "tags": [],
+      "language": null,
+      "growthRate": 853.1
+    },
+    {
+      "id": 33,
+      "source": "github",
+      "title": "janestreet/agent_skills",
+      "headlineJa": "janestreet/agent_skills",
+      "summaryJa": "Agent skills",
+      "detailJa": "janestreet/agent_skills は、AIエージェントやチャットボット向けのスキル集です。各スキルは、エージェントへの指示を記した SKILL.md ファイルを含むディレクトリとして提供されています。公開されている抜粋で紹介されているスキルは socratic-tutor で、LLM を厳格な個人チューターに変え、利用者が選んだトピックをソクラテス式の方法で教えます。その学習の流れは、診断、レベル0〜5のスキルマップ、一度に一つの質問、間隔をあけた復習、そして最終評価で構成されています。SKILL.md 形式に対応したコーディングエージェントで使う場合は、スキルのディレクトリをエージェントのスキルフォルダにコピーし、「teach me X」のように利用を依頼します。通常のチャットボットで使う場合は、スキルの SKILL.md の本文をチャットやカスタム／システムプロンプトに貼り付け、その後にしてほしいことを続けます。使用言語やライセンス、対応環境については、与えられた公開情報からは不明です。",
+      "strengthsJa": "SKILL.md という共通形式の指示ファイルでスキルが提供され、コーディングエージェントではディレクトリをコピーして利用を依頼し、通常のチャットボットでは本文を貼り付けて使うため、導入の手順が具体的で分かりやすいです。socratic-tutor は診断から最終評価まで段階的な学習の流れを持ち、レベル0〜5のスキルマップや一度に一つの質問、間隔をあけた復習を組み合わせた段階的な設計になっています。対応するエージェントと通常のチャットボットの両方の使い方が示されており、利用環境に応じて同じスキルを使い分けられる点も利点です。ただし、性能を示すベンチマークなどの数値は与えられた公開情報にはなく、他の学習方法との比較による優位性も確認できません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "AIエージェント",
+          "explanation": "利用者の代わりに指示を受けて、調べたり作業したりするAIのことです。ここでは、スキルに書かれた指示に従って動くAIを指します。"
+        },
+        {
+          "term": "チャットボット",
+          "explanation": "文字での会話で質問に答えたり作業を手伝ったりするAIのことです。"
+        },
+        {
+          "term": "SKILL.md",
+          "explanation": "エージェントへの指示をまとめたファイルのことです。ファイル名が決まっており、スキルごとに用意されます。"
+        },
+        {
+          "term": "socratic-tutor",
+          "explanation": "このリポジトリで紹介されているスキルの名前です。LLMを個人チューターとして使うための指示が入っています。"
+        },
+        {
+          "term": "LLM",
+          "explanation": "大量の文章を学習し、文章の理解や作成ができる大規模なAIモデルのことです。"
+        },
+        {
+          "term": "ソクラテス式",
+          "explanation": "いきなり答えを教えるのではなく、質問を重ねて相手自身に考えさせながら理解へ導く方法のことです。"
+        },
+        {
+          "term": "スキルマップ",
+          "explanation": "学ぶ内容を項目ごとに分け、習熟度をレベルで整理した表や一覧のことです。ここではレベル0〜5で示されます。"
+        },
+        {
+          "term": "コーディングエージェント",
+          "explanation": "プログラムを書いたり直したりする作業を手伝うAIのことです。"
+        },
+        {
+          "term": "スキルフォルダ",
+          "explanation": "エージェントがスキルを読み込むために、スキルのディレクトリを置く場所のことです。"
+        },
+        {
+          "term": "システムプロンプト",
+          "explanation": "AIに役割や振る舞いを事前に伝えるための指示文のことです。"
+        },
+        {
+          "term": "個人チューター",
+          "explanation": "一人ひとりに合わせて教える、個別指導の先生役のことです。"
+        },
+        {
+          "term": "最終評価",
+          "explanation": "学習の最後に、どれだけ理解できたかを確認する評価のことです。"
+        },
+        {
+          "term": "診断",
+          "explanation": "学習を始める前に、現在の理解度や弱点を確かめることです。"
+        }
+      ],
+      "url": "https://github.com/janestreet/agent_skills",
+      "metricLabel": "★ 8,244",
+      "secondaryMetric": "フォーク 534",
+      "tags": [],
+      "language": null,
+      "growthRate": 806.6
+    },
+    {
+      "id": 34,
+      "source": "github",
+      "title": "zortos293/Lichii",
+      "headlineJa": "zortos293/Lichii",
+      "summaryJa": "VERY experimental Nintendo Switch 2 emulator",
+      "detailJa": "LichiiはC++で書かれた、オープンソースの実験的なNintendo SwitchおよびSwitch 2エミュレータである。Eglantine、Eden、yuzu、Sudachiを基にしており、それらの貢献を残しつつ、このフォーク独自のゲーム互換性とレンダラーの修正を進めている。これらの上流プロジェクトの公式リリースではなく独立したフォークであり、任天堂とは関係がない。Windowsではビルドアーカイブを展開してlichii.exeを実行し、ゲームやキー、ファームウェアは含まれていないため、合法的に入手したゲームとシステムファイルのみを使う必要がある。Windowsでは%APPDATA%\\lichii、LinuxとmacOSではXDGのデータ・設定・キャッシュ配下のlichiiディレクトリを独自プロファイルとして使い、ポータブルなuser/ディレクトリがあればそちらが優先される。初回の非ポータブルなGUI起動時にはEdenなど検出された他のエミュレータのプロファイルのインポートが提案され、Keep Old Dataを選ぶと元のデータを変更せずにコピーでき、Moveでは元のバックアップが残り、Linkでは設定とセーブを共有する。互換性や性能はゲームやハードウェア、ドライバによって異なり、描画エラーやカクつき、クラッシュが起こる可能性があり、自動テストの合格が正しい描画を保証するものではなく、フレームレートの普遍的な保証もない。ゲームの互換性はlichii.zortos.meのコミュニティ互換性レポートで確認でき、ダウンロードはリポジトリのリリースページからのみ行うよう注意が呼びかけられている。",
+      "strengthsJa": "Eglantine、Eden、yuzu、Sudachiという複数の先行プロジェクトを土台にし、その貢献を残しながらゲーム互換性とレンダラーの修正に取り組むフォークである点が、開発の出発点として明確である。互換性サイトでプレイヤーごとのビルドや環境別のコミュニティ報告を比較できるため、自分の環境で動くかどうかを事前に調べる手がかりが用意されている。初回起動時のプロファイルインポートでは、Keep Old Dataによる元データへの非破壊コピーや、Move時のバックアップ保持、Linkによる設定とセーブの共有、中断時の次回起動での復旧が用意されており、既存のセーブや設定の移行に配慮した設計になっている。ただし、公開された抜粋にはベンチマークなどの性能数値は含まれておらず、互換性や性能はゲームやハードウェア、ドライバによって異なると明記されているため、公開情報からは優位性を数値で確認できない。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "エミュレータ",
+          "explanation": "ある機器やソフトの動きを、別の機器やソフトの上で再現する仕組み。ここでは、ゲーム機の動作をパソコン上で再現するソフトを指す。"
+        },
+        {
+          "term": "C++",
+          "explanation": "処理速度が求められるソフトの開発によく使われるプログラミング言語の一つ。Lichiiの本体はこの言語で書かれている。"
+        },
+        {
+          "term": "Nintendo Switch",
+          "explanation": "Lichiiが動作の再現を目指す、任天堂のゲーム機の一つである。"
+        },
+        {
+          "term": "Switch 2",
+          "explanation": "Lichiiが実験的に対応を目指すゲーム機の一つである。"
+        },
+        {
+          "term": "Eglantine",
+          "explanation": "Lichiiの土台となった先行エミュレータプロジェクトの一つ。"
+        },
+        {
+          "term": "Eden",
+          "explanation": "Lichiiの土台となった先行エミュレータプロジェクトの一つで、プロファイルのインポート元としても挙げられている。"
+        },
+        {
+          "term": "yuzu",
+          "explanation": "Lichiiの土台となった先行エミュレータプロジェクトの一つ。"
+        },
+        {
+          "term": "Sudachi",
+          "explanation": "Lichiiの土台となった先行エミュレータプロジェクトの一つ。"
+        },
+        {
+          "term": "フォーク",
+          "explanation": "既存のソフトのソースコードを複製し、別の方針で独立して開発を続けること。Lichiiは上流プロジェクトのフォークである。"
+        },
+        {
+          "term": "レンダラー",
+          "explanation": "ゲームなどの画像を画面に描くための処理や仕組み。Lichiiでは、その修正が開発の重点の一つとされている。"
+        },
+        {
+          "term": "互換性",
+          "explanation": "あるゲームなどが、別の環境でも正しく動くかどうかを示す性質。ここでは、各ゲームがLichiiで遊べるかどうかを指す。"
+        },
+        {
+          "term": "GUI",
+          "explanation": "画面上のボタンやメニューなどを使って操作する画面のこと。文字だけの操作と区別される。"
+        },
+        {
+          "term": "プロファイル",
+          "explanation": "設定やセーブデータなど、利用者ごとの環境をまとめたもの。Lichiiでは独自の保存場所を持つ。"
+        },
+        {
+          "term": "フレームレート",
+          "explanation": "1秒間に画面が何回更新されるかを示す値で、動きの滑らかさの目安になる。Lichiiはその普遍的な保証をしていないとされている。"
+        },
+        {
+          "term": "ドライバ",
+          "explanation": "パソコンの部品をソフトから使えるようにする基本的なソフト。種類や版によって表示や性能が変わることがある。"
+        }
+      ],
+      "url": "https://github.com/zortos293/Lichii",
+      "metricLabel": "★ 8,971",
+      "secondaryMetric": "フォーク 1,448",
+      "tags": [],
+      "language": "C++",
+      "growthRate": 673.2
+    },
+    {
+      "id": 35,
+      "source": "github",
+      "title": "KnifeLemon/Filee",
+      "headlineJa": "KnifeLemon/Filee",
+      "summaryJa": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+      "detailJa": "Fileeは無料のオープンソースのファイルコンバーターで、ドラッグ&ドロップで263種類の形式をオフラインで変換できる。対象は画像、PDF、Word、Excel、PowerPoint、HWP/HWPX、動画、音声、電子書籍、アーカイブである。使い方は、Ctrlキー（macOSではOptionキー）を押しながらファイルをドラッグし、カーソル位置に開くドーナツ状の表示の中の形式にドロップするというものである。ファイルのアップロードは不要で、Officeも不要と説明されている。主な言語はC#で、ライセンスはMITライセンスである。動作環境としてWindows 10と11、Linuxのx64とARM64が示され、macOSはプレビュー版とされている。公式サイトはfilee.shで、ダウンロードはGitHubのリリースから行える。READMEにはインストール、コマンドライン、開発に関する項目も用意されている。公開情報からは、変換に使われている具体的な技術や内部の仕組みは不明である。",
+      "strengthsJa": "263種類の形式に対応し、画像やPDF、Word、Excel、PowerPoint、HWP/HWPX、動画、音声、電子書籍、アーカイブを一つのツールで扱える点が特徴である。オフラインで動作し、アップロードが不要とされているため、ファイルを外部サービスに送らずに変換できる。WordやExcel、PowerPointの変換にOfficeが不要と明記されており、Officeを持たない環境でも利用できる。Windows 10・11とLinuxのx64・ARM64に対応し、macOSはプレビュー版が用意され、MITライセンスのオープンソースとして公開されている。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "オープンソース",
+          "explanation": "ソースコードが公開されているソフトウェアの形態。利用者は中身を確認でき、ライセンスの条件の範囲で利用や改変ができることが多い。"
+        },
+        {
+          "term": "ファイルコンバーター",
+          "explanation": "ファイルの形式を別の形式に変換するためのソフトウェアや機能。例えば画像や文書を別の形式に書き換えることができる。"
+        },
+        {
+          "term": "オフライン",
+          "explanation": "インターネットに接続していない状態、または接続しなくても使えること。外部のサーバーにデータを送らずに作業できる場合がある。"
+        },
+        {
+          "term": "PDF",
+          "explanation": "文書をレイアウトが崩れにくい形で保存・共有するためのファイル形式。パソコンやスマートフォンなどで広く使われている。"
+        },
+        {
+          "term": "Word",
+          "explanation": "Microsoftの文書作成ソフトと、そのソフトで作られる文書ファイルの形式。文章や表などを含む文書を作成するのに使われる。"
+        },
+        {
+          "term": "Excel",
+          "explanation": "Microsoftの表計算ソフトと、そのソフトで作られるファイルの形式。表や計算、グラフの作成に使われる。"
+        },
+        {
+          "term": "PowerPoint",
+          "explanation": "Microsoftのプレゼンテーション作成ソフトと、そのソフトで作られるファイルの形式。スライドを使った発表資料の作成に使われる。"
+        },
+        {
+          "term": "HWP/HWPX",
+          "explanation": "韓国の文書作成ソフトで使われる文書ファイルの形式。韓国で使われる文書形式の一つである。"
+        },
+        {
+          "term": "アーカイブ",
+          "explanation": "複数のファイルを一つにまとめたファイルや、そのための形式。圧縮して保存したり、まとめて配布したりするのに使われる。"
+        },
+        {
+          "term": "C#",
+          "explanation": "Microsoftが開発したプログラミング言語の一つ。Windows向けのアプリやWebサービスなどの開発に使われる。"
+        },
+        {
+          "term": "MITライセンス",
+          "explanation": "条件が比較的緩やかなオープンソースのライセンスの一つ。著作権表示などを守れば、利用や改変、再配布などが認められる。"
+        },
+        {
+          "term": "Windows 10",
+          "explanation": "Microsoftが提供するパソコン向けのOSの一つ。パソコンを動かすための基本的なソフトウェアである。"
+        },
+        {
+          "term": "Linux",
+          "explanation": "オープンソースのOSの一つ。パソコンやサーバーなど、さまざまな機器で使われている。"
+        },
+        {
+          "term": "ARM64",
+          "explanation": "ARMという設計に基づく64ビットのCPUアーキテクチャ。パソコンやスマートフォンなどの処理装置の種類を示す。"
+        },
+        {
+          "term": "macOS",
+          "explanation": "AppleのMacで使われるOS。Macを動かすための基本的なソフトウェアである。"
+        }
+      ],
+      "url": "https://github.com/KnifeLemon/Filee",
+      "metricLabel": "★ 26,755",
+      "secondaryMetric": "フォーク 1,535",
+      "tags": [],
+      "language": "C#",
+      "growthRate": 593.4
+    },
+    {
+      "id": 36,
+      "source": "huggingface",
+      "title": "Comfy-Org/MiniMax-H3-Image",
+      "headlineJa": "Comfy-Org/MiniMax-H3-Image",
+      "summaryJa": "Hugging Faceで人気指標 ♥ 342 を集めている「Comfy-Org/MiniMax-H3-Image」です。",
+      "detailJa": "Comfy-Org/MiniMax-H3-Imageは、MiniMaxAI/MiniMax-H3-ImageをComfyUI向けに再パッケージしたモデルファイルです。pipeline_tagはtext-to-imageで、ライブラリはdiffusion-single-fileとされています。拡散モデルとしてminimax_h3_image_pruned_int8_convrot.safetensorsをComfyUI/models/diffusion_models/に、VAEとしてminimax_h3_image_vae_fp16.safetensorsをmodels/vae/に配置する構成です。テキストエンコーダーとしては、qwen3.5_9b_w4a8_gptq.safetensors、qwen3vl_32b_minimax_h3_int8_convrot.safetensors、qwen3vl_32b_minimax_h3_nvfp4_awq.safetensorsがmodels/text_encoders/に置かれます。プロンプト拡張には、Generate Textノードでqwen3.5_9b_w4a8_gptqを使うことが推奨されています。画像編集とテキストから画像生成のワークフロー用テンプレートが用意されています。ライセンスはotherで、名称はminimax-h3-image-community-license-agreementです。なお、年換算収益が100万米ドルを超える場合や第三者へのホスト型サービスを提供する場合は、MiniMaxから別途事前の書面による許諾が必要とされています。学習方法やパラメータ規模については、公開情報からは不明です。",
+      "strengthsJa": "性能を示すベンチマーク等の数値はモデルカード抜粋に含まれていないため、公開情報からは性能面での優位性を確認できない。ただし、ComfyUI向けに再パッケージされ、拡散モデル・テキストエンコーダー・VAEの配置先がフォルダ構成付きで具体的に示されているため、導入時のファイル整理がしやすい。画像編集とテキストから画像生成の2種類のワークフローテンプレートが用意されている点も、用途に応じた利用を始めやすくする。プロンプト拡張に使う推奨モデルとノードが明記されているため、設定の目安が分かりやすい。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "ComfyUI",
+          "explanation": "画像生成モデルなどをノードをつないで操作できるツールです。処理の流れを図のように組み立てて実行できます。"
+        },
+        {
+          "term": "MiniMaxAI/MiniMax-H3-Image",
+          "explanation": "このリポジトリの元になった画像生成モデルです。Comfy-Org版はこれをComfyUI向けに再パッケージしたものです。"
+        },
+        {
+          "term": "text-to-image",
+          "explanation": "文章の説明文から画像を作る処理や機能のことです。入力が文章で、出力が画像になります。"
+        },
+        {
+          "term": "diffusion-single-file",
+          "explanation": "拡散モデルを1つのファイルとして扱うためのライブラリ区分のことです。"
+        },
+        {
+          "term": "拡散モデル",
+          "explanation": "ノイズから少しずつ画像を整えていく仕組みで画像を作るモデルのことです。"
+        },
+        {
+          "term": "VAE",
+          "explanation": "画像を小さな数値表現に変換したり、そこから画像に戻したりする部品です。生成の前後で画像と数値表現を変換する役割があります。"
+        },
+        {
+          "term": "テキストエンコーダー",
+          "explanation": "文章をモデルが扱える数値の表現に変換する部品です。プロンプトの意味を画像生成に伝える役割があります。"
+        },
+        {
+          "term": "qwen3.5_9b_w4a8_gptq",
+          "explanation": "プロンプト拡張に使うよう推奨されているモデルの名前です。"
+        },
+        {
+          "term": "Generate Textノード",
+          "explanation": "ComfyUIで文章を生成するための操作単位のことです。ここではプロンプト拡張に使うことが推奨されています。"
+        },
+        {
+          "term": "プロンプト拡張",
+          "explanation": "画像生成の指示文を、より詳しく具体的な文章にふくらませることです。"
+        },
+        {
+          "term": "画像編集",
+          "explanation": "すでにある画像を加工したり、一部を変更したりすることです。"
+        },
+        {
+          "term": "ワークフローテンプレート",
+          "explanation": "あらかじめ用意された処理の流れのひな型のことです。自分で一から組み立てなくても、同じ手順で実行しやすくなります。"
+        },
+        {
+          "term": "ベンチマーク",
+          "explanation": "性能を比べるための共通のテストや指標のことです。数値で能力を測る目安として使われます。"
+        },
+        {
+          "term": "minimax-h3-image-community-license-agreement",
+          "explanation": "このモデルの利用条件を定めたライセンスの名称です。利用前に条件を確認する必要があります。"
+        }
+      ],
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+      "metricLabel": "♥ 342",
+      "secondaryMetric": "ダウンロード 1,257,301",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 37,
+      "source": "huggingface",
+      "title": "Zyphra/ZONOS3-Mini",
+      "headlineJa": "Zyphra/ZONOS3-Mini",
+      "summaryJa": "Hugging Faceで人気指標 ♥ 278 を集めている「Zyphra/ZONOS3-Mini」です。",
+      "detailJa": "ZONOS3-Miniは、Zyphraが公開したコンパクトなオープンソースのテキスト読み上げモデルです。有効パラメータ数は1億で、テキストを入力として自然な音声を生成し、音声サンプルから声を複製するボイスクローンにも対応します。年齢やアクセント、声の質感を調整してキャラクターの声を作ったり、単語単位で感情や速度、話し方を制御したりできるとされています。ゲームやナレーション、音声アシスタントでの利用が想定されています。43言語に対応し、日本語や英語、中国語、韓国語などを含みます。スマートフォンやノートパソコンでリアルタイムに動作し、ブラウザー内でも直接実行できるとされています。ブラウザー版はWebGPUを通じて利用者のGPU上で完全に動作し、インストールやサーバーは不要で、初回訪問時にモデルをダウンロードしてブラウザーにキャッシュすると説明されています。ローカルではブラウザー用とネイティブのランタイムで実行できるほか、Zyphra Cloud経由でも利用できます。モデルの重みはApache 2.0ライセンスで公開され、ライブラリ名はzonos3、パイプラインはtext-to-speechとされていますが、公開された抜粋からは学習方法やベースモデルは不明です。",
+      "strengthsJa": "有効パラメータ数が1億とコンパクトでありながら、スマートフォンやノートパソコン、ブラウザー内でリアルタイムに動作するとされている点が特徴です。音声サンプルからのボイスクローンに加え、年齢やアクセント、声の質感の調整や単語単位での感情・速度・話し方の制御ができるとされ、キャラクターや場面に合わせた音声作りに対応します。43言語に対応し、日本語を含む多言語の音声生成を同じモデルで扱えます。ブラウザー版はWebGPUで利用者のGPU上で動作してインストールやサーバーが不要で、ローカル実行とZyphra Cloudの両方の利用方法が用意され、モデルはApache 2.0で公開されています。ただし、公開された抜粋には評価の具体的な数値が含まれていないため、性能の優位性を数値で確認することはできません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "ZONOS3-Mini",
+          "explanation": "Zyphraが公開した、テキストから音声を作る小型のモデルです。"
+        },
+        {
+          "term": "Zyphra",
+          "explanation": "このモデルを公開した開発元として名前が挙がっている組織です。"
+        },
+        {
+          "term": "テキスト読み上げモデル",
+          "explanation": "文字で書かれた文章を読み上げ、音声に変換する仕組みのモデルです。"
+        },
+        {
+          "term": "有効パラメータ数",
+          "explanation": "モデルが計算に使う調整可能な数値のうち、実際に働く分の規模を示す数です。ここでは1億とされています。"
+        },
+        {
+          "term": "ボイスクローン",
+          "explanation": "音声サンプルをもとに、その声の特徴をまねた音声を作る技術です。"
+        },
+        {
+          "term": "WebGPU",
+          "explanation": "ブラウザーからパソコンやスマートフォンのGPUを使うための仕組みです。重い計算をブラウザー内で行うのに使われます。"
+        },
+        {
+          "term": "GPU",
+          "explanation": "画像処理や並列計算が得意な部品で、AIの計算にも使われます。"
+        },
+        {
+          "term": "Zyphra Cloud",
+          "explanation": "Zyphraが提供する、モデルをクラウド経由で利用できるサービスです。"
+        },
+        {
+          "term": "Apache 2.0",
+          "explanation": "ソフトウェアやモデルの重みを公開する際のライセンスの一つで、利用条件を定めています。"
+        },
+        {
+          "term": "zonos3",
+          "explanation": "このモデルで使われているライブラリの名前です。"
+        },
+        {
+          "term": "text-to-speech",
+          "explanation": "テキストを音声に変換する処理や、そのためのモデルの種類を指す言葉です。"
+        },
+        {
+          "term": "ランタイム",
+          "explanation": "プログラムを実際に動かすための実行環境のことです。"
+        },
+        {
+          "term": "音声アシスタント",
+          "explanation": "音声で操作したり、音声で応答したりするソフトウェアやサービスです。"
+        },
+        {
+          "term": "オープンソース",
+          "explanation": "設計やプログラムなどが公開され、条件のもとで誰でも利用・確認できる形態のことです。"
+        },
+        {
+          "term": "リアルタイム",
+          "explanation": "遅れがほとんどなく、その場で処理や応答が行われることです。"
+        }
+      ],
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "metricLabel": "♥ 278",
+      "secondaryMetric": "ダウンロード 13,068",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 38,
+      "source": "huggingface",
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "headlineJa": "black-forest-labs/flux-3-image-klein-comfy",
+      "summaryJa": "Hugging Faceで人気指標 ♥ 3,086 を集めている「black-forest-labs/flux-3-image-klein-comfy」です。",
+      "detailJa": "「black-forest-labs/flux-3-image-klein-comfy」は、Hugging Faceに公開されているリポジトリで、元の説明文は与えられていない。ベースモデル・派生元としては、「black-forest-labs/flux-3-image-klein」「black-forest-labs/flux-3-image-klein-base」「black-forest-labs/flux-3-image-klein-pup」の3件が挙げられている。ライブラリには「diffusion-single-file」が指定されている。対応言語は「en」とされている。ライセンスは「other」と記載されているため、具体的な利用条件は元のページで確認する必要がある。パラメータ規模や学習方法（SFT／RLHF／蒸留など）については、与えられた情報からは不明である。入出力の形式や動作環境、使い方の詳細についても、与えられた情報からは不明であり、元のページでの確認が必要である。",
+      "strengthsJa": "与えられた情報には、ベンチマークなどの性能数値や、設計・仕組みの工夫に関する説明が含まれていない。ベースモデルが3件挙げられていることや、ライブラリが「diffusion-single-file」であることは分かるが、それだけでは性能や独自の優位性を判断できない。ライセンスは「other」とされており、導入のしやすさを裏付ける具体的な条件も与えられた情報からは確認できない。そのため、公開情報からは優位性を確認できない。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "Hugging Face",
+          "explanation": "AIのモデルやデータセットなどを公開・共有できるプラットフォームのこと。"
+        },
+        {
+          "term": "black-forest-labs/flux-3-image-klein-comfy",
+          "explanation": "この記事で取り上げている、Hugging Faceに公開されているリポジトリの名前。"
+        },
+        {
+          "term": "black-forest-labs/flux-3-image-klein",
+          "explanation": "この記事でベースモデル・派生元として挙げられているモデルの名前。"
+        },
+        {
+          "term": "black-forest-labs/flux-3-image-klein-base",
+          "explanation": "この記事でベースモデル・派生元として挙げられているモデルの名前。"
+        },
+        {
+          "term": "black-forest-labs/flux-3-image-klein-pup",
+          "explanation": "この記事でベースモデル・派生元として挙げられているモデルの名前。"
+        },
+        {
+          "term": "ベースモデル",
+          "explanation": "派生モデルや調整の元になる、もとのモデルのこと。"
+        },
+        {
+          "term": "diffusion-single-file",
+          "explanation": "拡散モデルを単一のファイル形式で提供・利用するためのライブラリの指定。"
+        },
+        {
+          "term": "ライセンス",
+          "explanation": "利用や配布の条件を定めた決まりのこと。"
+        },
+        {
+          "term": "SFT",
+          "explanation": "教師ありファインチューニングの略で、正解付きのデータを使ってモデルを調整する学習方法。"
+        },
+        {
+          "term": "RLHF",
+          "explanation": "人間のフィードバックによる強化学習の略で、人の評価をもとにモデルの出力を改善する学習方法。"
+        },
+        {
+          "term": "蒸留",
+          "explanation": "大きなモデルの知識を小さなモデルに移して、性能を保ちながら軽くする学習手法。"
+        },
+        {
+          "term": "パラメータ規模",
+          "explanation": "モデル内部の調整可能な数値の総数で、モデルの大きさの目安になるもの。"
+        },
+        {
+          "term": "ベンチマーク",
+          "explanation": "性能を測るための共通のテストや評価指標のこと。"
+        },
+        {
+          "term": "対応言語",
+          "explanation": "そのモデルやリポジトリが対応しているとされている言語のこと。"
+        },
+        {
+          "term": "リポジトリ",
+          "explanation": "ファイルやモデルなどをまとめて保管・公開する場所のこと。"
+        }
+      ],
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "metricLabel": "♥ 3,086",
+      "secondaryMetric": "ダウンロード 1,330,289",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 39,
+      "source": "huggingface",
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "headlineJa": "unsloth/Qwen3.8-27B-GGUF",
+      "summaryJa": "Hugging Faceで人気指標 ♥ 5,866 を集めている「unsloth/Qwen3.8-27B-GGUF」です。",
+      "detailJa": "「unsloth/Qwen3.8-27B-GGUF」は、Qwen/Qwen3.8-27BをベースモデルとするGGUF形式のモデルで、アーキテクチャはQwen3_5ForConditionalGeneration、ライセンスはapache-2.0です。Qwen3.8-27Bは27B規模のコンパクトで導入しやすいデンスモデルと説明されており、Qwen3.5のアーキテクチャを基盤にしています。画像や動画を理解するネイティブなvision-languageモデルであり、柔軟なthinking controlを備え、複雑で多段階のタスクをより確実に遂行できるよう設計されています。コーディング、専門的な業務、研究、長期的なエージェント型タスクなどで包括的な改善がうたわれ、エージェント実行ではより強力な自律的計画が挙げられています。「Unsloth Dynamic 3.1」のGGUFとして提供されており、Unsloth Desktopでは4-bit版を実行でき、Thinking toggles付きで実行とファインチューニングができるとされています。Unsloth DesktopはMac、Windows、Linux向けに提供されています。学習方法や入出力の詳細な形式については、与えられた公開情報からは不明です。",
+      "strengthsJa": "モデルカードでは、Unsloth Dynamic 3.1が他の主要な量子化モデルより優れた精度を達成するとされ、Dynamic v3.1 GGUFは他のフロンティア量子化モデルより平均精度が5〜10%高いとされています。評価対象としてTerminal Bench、DeepSWE、LiveCodeBenchなどが挙げられています。Qwen3.8-27B自体は、Qwenのオープンなモデルファミリーでこれまでで最も高性能な世代と位置づけられ、コーディングや長期的なエージェント型タスクなどでの改善が強調されています。画像や動画を理解するネイティブなvision-languageモデルでありながら27Bのコンパクトなデンスモデルとして導入しやすい点や、ライセンスがapache-2.0である点も、利用上の利点として挙げられます。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "GGUF",
+          "explanation": "大規模言語モデルなどを1つのファイルにまとめて保存・配布するための形式です。ローカルで動かすツールで読み込みやすく、軽量化したモデルに使われます。"
+        },
+        {
+          "term": "Qwen/Qwen3.8-27B",
+          "explanation": "このGGUF版の元になったモデルです。Qwenシリーズの27B規模のモデルで、名前の27Bが規模を示しています。"
+        },
+        {
+          "term": "Qwen3_5ForConditionalGeneration",
+          "explanation": "モデルカードに記載されたアーキテクチャの名前です。条件に応じて文章などを生成するQwen3.5系のモデルの構造を示します。"
+        },
+        {
+          "term": "apache-2.0",
+          "explanation": "Apache License 2.0の略称です。比較的自由に利用・改変・再配布できることを定めたオープンソースのライセンスです。"
+        },
+        {
+          "term": "Qwen3.5",
+          "explanation": "Qwen3.8の設計の土台になったとされる、前の世代のQwenシリーズです。Qwen3.8はこのアーキテクチャを基盤にしています。"
+        },
+        {
+          "term": "デンスモデル",
+          "explanation": "処理のたびにモデルのパラメータ全体を使う設計のモデルです。この記事では、導入しやすいコンパクトなモデルとして説明されています。"
+        },
+        {
+          "term": "vision-languageモデル",
+          "explanation": "画像や動画とテキストの両方を扱えるモデルです。画像の内容を理解して、言葉による指示に応えることができます。"
+        },
+        {
+          "term": "thinking control",
+          "explanation": "モデルが答えを出す前に考える量や、考えるかどうかを調整できる仕組みです。Qwen3.8-27Bは柔軟なthinking controlを備えるとされています。"
+        },
+        {
+          "term": "Unsloth Dynamic 3.1",
+          "explanation": "Unslothが提供するGGUF版の名称で、Dynamic v3.1と呼ばれるバージョンです。モデルカードでは他の量子化モデルより高い精度がうたわれています。"
+        },
+        {
+          "term": "Unsloth Desktop",
+          "explanation": "Unslothが提供するデスクトップアプリです。Qwen3.8の実行やファインチューニングができ、Mac、Windows、Linux向けに提供されています。"
+        },
+        {
+          "term": "Thinking toggles",
+          "explanation": "Unsloth Desktopで、モデルの思考に関する設定を切り替えるための機能です。実行やファインチューニングの際に使うとされています。"
+        },
+        {
+          "term": "4-bit",
+          "explanation": "モデルの数値を4ビットで表す軽量化の単位です。元のモデルより小さくし、メモリ使用量を抑えて動かしやすくします。"
+        },
+        {
+          "term": "Terminal Bench",
+          "explanation": "AIモデルの性能を測るためのベンチマークの一つです。この記事では、Dynamic v3.1 GGUFの評価対象として挙げられています。"
+        },
+        {
+          "term": "DeepSWE",
+          "explanation": "AIモデルの性能を測るためのベンチマークの一つです。この記事では、Dynamic v3.1 GGUFの評価対象として挙げられています。"
+        },
+        {
+          "term": "LiveCodeBench",
+          "explanation": "AIモデルの性能を測るためのベンチマークの一つです。この記事では、Dynamic v3.1 GGUFの評価対象として挙げられています。"
+        }
+      ],
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "metricLabel": "♥ 5,866",
+      "secondaryMetric": "ダウンロード 6,253,865",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 40,
+      "source": "huggingface",
+      "title": "thinkingmachines/Inkling-2-Small",
+      "headlineJa": "thinkingmachines/Inkling-2-Small",
+      "summaryJa": "Hugging Faceで人気指標 ♥ 228 を集めている「thinkingmachines/Inkling-2-Small」です。",
+      "detailJa": "Inkling 2 Smallは、テキストと画像を入力として受け取り、テキストを出力する汎用マルチモーダルモデルです。英語での利用を想定しつつ、他の言語にも幅広く対応する多言語能力を持ち、複数のプログラミング言語にも対応することが想定されています。開発者がエージェントやツール利用システム、コーディングアシスタント、チャットボット、検索拡張生成（RAG）システムなどのAIアプリケーションを構築することを想定して設計されています。汎用的な会話、指示追従、その他の自然言語処理や視覚タスクにも適しています。研究、ファインチューニング、第三者製品への統合を支援するため、オープンウェイトで公開されています。ライセンスはApache-2.0で、ライブラリはtransformers、アーキテクチャはInkling2ForConditionalGeneration、パイプラインタグはimage-text-to-textです。ローカル推論にはSGLang、vLLM、TokenSpeed、Unslothが利用でき、Tinker Playgroundで試すことやTinker Cookbookを使ったAPI利用もできます。Tinkerでファインチューニングする際はtml-renderersパッケージもインストールする必要があり、Miles、SkyRL、Snowflake Cortex Trainingによるポストトレーニングも可能で、NVIDIA、Fireworks、Together、Baseten、Nebius、Modalなどの第三者推論プロバイダー経由のAPIアクセスも案内されています。学習方法やベースモデル、パラメータ規模については、公開情報からは不明です。",
+      "strengthsJa": "テキストと画像の両方を入力できるマルチモーダル設計のため、会話や指示追従に加え、視覚タスクやコーディング支援、エージェントやツール利用、検索拡張生成（RAG）など幅広い用途を1つのモデルで扱える点が特徴です。Apache-2.0ライセンスでオープンウェイトとして公開され、研究やファインチューニング、第三者製品への統合が想定されているため、応用や組み込みの検討がしやすい構成です。SGLang、vLLM、TokenSpeed、Unslothによるローカル推論や、Tinker Playgroundでの試用、Tinker CookbookによるAPI利用、複数の第三者推論プロバイダー経由のアクセスが案内されており、利用経路の選択肢が多いです。ただし、公開情報にはベンチマークなどの性能数値が含まれていないため、性能面での優位性は公開情報からは確認できません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "Inkling 2 Small",
+          "explanation": "テキストと画像を入力として受け取り、テキストを出力する汎用マルチモーダルモデルです。"
+        },
+        {
+          "term": "マルチモーダルモデル",
+          "explanation": "テキストや画像など、複数の種類の情報を扱えるAIモデルです。1つのモデルで言葉と画像の両方を理解して処理できます。"
+        },
+        {
+          "term": "transformers",
+          "explanation": "機械学習モデルを利用するためのライブラリです。Hugging Faceのモデルを読み込んで動かす際によく使われます。"
+        },
+        {
+          "term": "Apache-2.0",
+          "explanation": "オープンソースソフトウェアのライセンスの一種です。一定の条件のもとで、利用や改変、再配布が認められています。"
+        },
+        {
+          "term": "Inkling2ForConditionalGeneration",
+          "explanation": "Inkling 2 Smallで使われているモデルの構造を示す名称です。入力された条件に応じてテキストを生成する仕組みを指します。"
+        },
+        {
+          "term": "image-text-to-text",
+          "explanation": "画像とテキストを入力し、テキストを出力する処理の種類を示すタグです。入力が画像と文章で、出力が文章であることを表します。"
+        },
+        {
+          "term": "SGLang",
+          "explanation": "大規模言語モデルなどをローカルで効率よく動かすための推論用フレームワークです。高速な推論やサーバーとしての利用を想定しています。"
+        },
+        {
+          "term": "vLLM",
+          "explanation": "大規模言語モデルなどをローカルで効率よく動かすための推論用フレームワークです。高速に文章を生成できる仕組みとして使われます。"
+        },
+        {
+          "term": "Tinker Playground",
+          "explanation": "Inkling 2 Smallを手軽に試すための環境です。実際に動かして挙動を確認するために使えます。"
+        },
+        {
+          "term": "Tinker Cookbook",
+          "explanation": "Tinkerを使ったAPI利用などの手順をまとめた案内です。利用方法を確認するための資料として使われます。"
+        },
+        {
+          "term": "tml-renderers",
+          "explanation": "TinkerでInkling 2 Smallをファインチューニングする際にインストールするパッケージです。"
+        },
+        {
+          "term": "ファインチューニング",
+          "explanation": "すでに学習済みのモデルに、追加の学習を行って特定の用途やデータに合わせて調整することです。"
+        },
+        {
+          "term": "オープンウェイト",
+          "explanation": "モデルの学習済みの重みが公開されている状態のことです。"
+        },
+        {
+          "term": "検索拡張生成（RAG）",
+          "explanation": "外部の情報を検索して取り込み、それを参考に文章を生成する仕組みです。資料や最新情報をもとに回答を作る際に使われます。"
+        },
+        {
+          "term": "ポストトレーニング",
+          "explanation": "モデルの基本的な学習が終わった後に、追加の学習で性能や振る舞いを調整する段階のことです。"
+        }
+      ],
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+      "metricLabel": "♥ 228",
+      "secondaryMetric": "ダウンロード 1,064",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 41,
+      "source": "kaggle",
+      "title": "Name That LLM: Extra API Passages",
+      "headlineJa": "Name That LLM: Extra API Passages",
+      "summaryJa": "Fresh model-written paragraphs on new prompts, labelled by model (synthetic)",
+      "detailJa": "このデータセットは、Kaggleの「Name That LLM」コンペティション向けに作られた合成データで、公式のClaude APIを通じて大規模言語モデルが生成した英文の段落を、モデルごとにラベル付きで収録している。v1はAnthropicの5つのラベルを対象とし、1,000件の新規プロンプトに5モデルを掛け合わせた5,000件の生成のうち、拒否により除外された2件を除く4,998件の文章を収録している。プロンプトはコンペティションの学習用プロンプトを再利用しておらず、学習用トピックとのTF-IDF類似度によるフィルタリングを経ており、コンペティションの文章・ラベル・プロンプト自体は含まれていない。主要ファイルはntl_extra_passages_claude.csvとprompts.csvの2つのCSVファイルで、前者はプロンプトとモデルの組み合わせごとに1段落、後者はprompt_idやdomain、task_type、topic、promptを収録している。ntl_extra_passages_claude.csvにはid、prompt_id、model、text、n_words、target_words、domain、task_type、topicが含まれ、modelにはclaude-fable-5、claude-opus-4-6、claude-opus-4-8、claude-opus-5、claude-sonnet-5というコンペティションのラベル名が使われている。収集は2026年10月に実施され、4,900件はMessage Batches、最初の20プロンプト分の100件は標準のMessagesエンドポイントで生成され、返されたモデルIDと要求したモデルIDの不一致は0件だった。要求する文章の長さNはコンペティションの学習用文章の語数分布からのみ引き継いでおり、データサイズは約4,660,571バイト、ライセンスはAttribution 4.0 International（CC BY 4.0）である。1つのプロンプトに対して各モデルが1段落ずつあるため、prompt_idをクロスバリデーションのグループとして使うことが推奨されており、今後のバージョンでは同じ手順で他のプロバイダーが追加される予定である。",
+      "strengthsJa": "新規プロンプトのみを用い、学習用トピックとのTF-IDF類似度によるフィルタリングを経ているため、コンペティションの学習用プロンプトや文章をそのまま含まない構成になっている。生成時に返されたモデルIDが要求したモデルIDと一致するかを照合し、不一致が0件だったと明記されているため、ラベルの対応関係を確認できる根拠がある。各プロンプトに5モデル分の文章がそろい、prompt_idをクロスバリデーションのグループとして使うことが推奨されているため、同一プロンプトを単位とした評価設計にしやすい。CC BY 4.0で公開され、CSVファイルで提供されているため、ライセンスと形式を確認したうえで扱いやすい。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "合成データ",
+          "explanation": "実際に観測されたデータではなく、モデルやプログラムによって人工的に作られたデータのこと。ここではモデルが生成した文章が該当する。"
+        },
+        {
+          "term": "大規模言語モデル",
+          "explanation": "大量の文章を学習し、文章の生成や要約などができるAIモデルのこと。LLMとも呼ばれる。"
+        },
+        {
+          "term": "Claude API",
+          "explanation": "Anthropicが提供するClaudeという大規模言語モデルを、プログラムから利用するための仕組みや窓口のこと。"
+        },
+        {
+          "term": "Anthropic",
+          "explanation": "Claudeを開発・提供している企業の名前。"
+        },
+        {
+          "term": "プロンプト",
+          "explanation": "モデルに何をしてほしいかを伝えるための指示文や入力文のこと。"
+        },
+        {
+          "term": "TF-IDF",
+          "explanation": "文章の中の単語の重要度を数値で表す手法。単語の出現頻度と、他の文章での珍しさを組み合わせて評価する。"
+        },
+        {
+          "term": "CSVファイル",
+          "explanation": "値をカンマで区切って並べた表形式のテキストファイルのこと。表計算ソフトなどで開きやすい。"
+        },
+        {
+          "term": "prompt_id",
+          "explanation": "各プロンプトを区別するための識別子。同じプロンプトから作られた文章を結びつけるのに使う。"
+        },
+        {
+          "term": "クロスバリデーション",
+          "explanation": "データを分けて学習と評価を繰り返し、モデルの性能を確かめる検証方法のこと。"
+        },
+        {
+          "term": "Message Batches",
+          "explanation": "Claude APIで複数のリクエストをまとめて処理する仕組みのこと。"
+        },
+        {
+          "term": "CC BY 4.0",
+          "explanation": "作者名の表示などを条件に、共有や改変を認めるクリエイティブ・コモンズのライセンスのこと。"
+        },
+        {
+          "term": "claude-opus-5",
+          "explanation": "Claudeシリーズのモデルの一つで、このデータセットでは文章の生成元を示すラベル名として使われている。"
+        },
+        {
+          "term": "n_words",
+          "explanation": "生成された文章の語数を表す列のこと。"
+        },
+        {
+          "term": "target_words",
+          "explanation": "生成時に要求した文章の目標の語数を表す列のこと。"
+        },
+        {
+          "term": "ラベル",
+          "explanation": "データがどの種類やどのモデルに属するかを示す、付け札のような情報のこと。"
+        }
+      ],
+      "url": "https://www.kaggle.com/datasets/seyitkaangunes/ntl-extra-api-passages",
+      "metricLabel": "▲ 59",
+      "secondaryMetric": "ダウンロード 5,387",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 42,
+      "source": "kaggle",
+      "title": "Video Game Sales",
+      "headlineJa": "Video Game Sales",
+      "summaryJa": "Analyze sales data from more than 16,500 games.",
+      "detailJa": "Video Game Salesは、Kaggleで公開されているビデオゲームの販売データセットで、10万本以上売れたゲームを対象にvgchartz.comからスクレイピングして生成されたものです。収録件数は16,598件で、情報が不完全だった2件は除外されたと説明されています。含まれる項目はRank、Name、Platform、Year、Genre、Publisher、NA_Sales、EU_Sales、JP_Sales、Other_Sales、Global_Salesで、地域別売上は百万単位で記録されています。PlatformはPCやPS4などの発売プラットフォーム、Genreはゲームのジャンル、Publisherは出版社を示します。データサイズは約1,355,781バイトで、ライセンスはUnknownとされています。スクレイピング用のスクリプトはhttps://github.com/GregorUT/vgchartzScrapeで公開されており、PythonのBeautifulSoupを用いて作られています。なお、ファイル形式については公開情報からは不明です。",
+      "strengthsJa": "北米、欧州、日本、その他の地域別売上と世界合計が分かれて収録されているため、地域ごとの販売傾向を比較する分析に使いやすい構成です。順位、発売年、プラットフォーム、ジャンル、出版社も併せて含まれており、複数の切り口で集計や可視化を行えます。収集に用いたスクリプトがGitHubで公開され、PythonとBeautifulSoupによる取得方法を確認できる点も透明性の面での利点です。ただし、他のデータセットとの比較や精度に関するベンチマークは公開情報にないため、公開情報からは優位性を確認できません。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "Video Game Sales",
+          "explanation": "このデータセットの名前で、ビデオゲームの販売データを集めたものです。"
+        },
+        {
+          "term": "Kaggle",
+          "explanation": "データセットや機械学習の課題を公開・共有できるプラットフォームです。"
+        },
+        {
+          "term": "vgchartz.com",
+          "explanation": "ゲームの販売データなどを掲載するウェブサイトで、このデータセットの取得元です。"
+        },
+        {
+          "term": "スクレイピング",
+          "explanation": "ウェブサイトから情報を自動で集める技術のことです。"
+        },
+        {
+          "term": "Rank",
+          "explanation": "全体の売上順位を表す項目です。"
+        },
+        {
+          "term": "Platform",
+          "explanation": "ゲームが発売された機器やサービスを表す項目で、PCやPS4などが入ります。"
+        },
+        {
+          "term": "Genre",
+          "explanation": "ゲームの種類やジャンルを表す項目です。"
+        },
+        {
+          "term": "Publisher",
+          "explanation": "ゲームを発売した会社を表す項目です。"
+        },
+        {
+          "term": "NA_Sales",
+          "explanation": "北米での売上を百万単位で表す項目です。"
+        },
+        {
+          "term": "EU_Sales",
+          "explanation": "欧州での売上を百万単位で表す項目です。"
+        },
+        {
+          "term": "JP_Sales",
+          "explanation": "日本での売上を百万単位で表す項目です。"
+        },
+        {
+          "term": "Other_Sales",
+          "explanation": "北米・欧州・日本以外の地域での売上を百万単位で表す項目です。"
+        },
+        {
+          "term": "Global_Sales",
+          "explanation": "世界全体の合計売上を表す項目です。"
+        },
+        {
+          "term": "BeautifulSoup",
+          "explanation": "Pythonでウェブページの内容を読み取って整理するためのライブラリです。"
+        },
+        {
+          "term": "Python",
+          "explanation": "汎用的に使われるプログラミング言語で、データ分析などにもよく使われます。"
+        }
+      ],
+      "url": "https://www.kaggle.com/datasets/gregorut/videogamesales",
+      "metricLabel": "▲ 6,889",
+      "secondaryMetric": "ダウンロード 818,979",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 43,
+      "source": "kaggle",
+      "title": "Novel Corona Virus 2019 Dataset",
+      "headlineJa": "Novel Corona Virus 2019 Dataset",
+      "summaryJa": "Day level information on covid-19 affected cases",
+      "detailJa": "このデータセットは、2019新型コロナウイルス（2019-nCoV）について、日単位の感染者数・死亡者数・回復者数を収録した時系列データで、2020年1月22日から利用できる。各日の数値はその日までの累計であり、主なファイルはCSV形式の「covid_19_data.csv」である。同ファイルには通し番号のSno、MM/DD/YYYY形式のObservationDate、Province/State、Country/Region、UTCでの更新時刻を示すLast Update、累計のConfirmed・Deaths・Recoveredが含まれる。Province/Stateは欠損時に空になる場合があり、Last Updateは標準化されていないため利用前にクリーニングが必要とされている。データの元はジョンズ・ホプキンズ大学のダッシュボードに関連するGoogleスプレッドシートから抽出されたもので、現在は同大学のGitHubリポジトリでもCSVファイルとして公開されている。古いファイル「2019_ncov_data.csv」は現在更新されておらず、利用には「covid_19_data.csv」を使うよう案内されている。また、個人単位の情報を含むファイルとして「COVID_open_line_list_data.csv」が追加されたことが説明されている。ライセンスは「Data files © Original Authors」とされ、データサイズは約35,400,154バイトであり、利用条件の詳細はジョンズ・ホプキンズ大学のGitHubリポジトリのTerms of Useを確認する必要がある。",
+      "strengthsJa": "日単位の累計データを国・地域や州・省単位で記録しているため、時間の経過に伴う感染者数・死亡者数・回復者数の変化を追いやすい構造になっている。確認済み感染者数・死亡者数・回復者数の3指標を1つのCSVファイルにまとめ、各列の意味が説明されているため、分析の準備をしやすい。ジョンズ・ホプキンズ大学のGitHubリポジトリでCSVとしても公開され、Kaggleカーネルでの利用を目的に共有されているため、入手経路が明示されている。ただし、公開情報にはベンチマークのような性能比較や他データセットに対する優位性を示す数値が含まれていないため、分析の有用性は収録内容と形式の範囲で判断する必要がある。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "2019-nCoV",
+          "explanation": "2019年に初めて確認された新型コロナウイルスの当初の呼び名です。"
+        },
+        {
+          "term": "時系列データ",
+          "explanation": "時間の順に並べたデータのことです。日ごとの変化を追うために使われます。"
+        },
+        {
+          "term": "累計",
+          "explanation": "ある時点までに合計した数のことです。その日に新しく増えた数ではなく、それまでの合計を表します。"
+        },
+        {
+          "term": "CSV形式",
+          "explanation": "データをカンマで区切って並べた、表計算ソフトなどで開きやすいテキストの形式です。"
+        },
+        {
+          "term": "covid_19_data.csv",
+          "explanation": "このデータセットの主なファイルの名前です。日ごとの感染者数などが入っています。"
+        },
+        {
+          "term": "Province/State",
+          "explanation": "州や省を表す列の名前です。国の中の地域を示します。"
+        },
+        {
+          "term": "Country/Region",
+          "explanation": "国や地域を表す列の名前です。どの国・地域のデータかを示します。"
+        },
+        {
+          "term": "Last Update",
+          "explanation": "行が更新された時刻を表す列の名前です。このデータセットではUTCでの時刻が入っています。"
+        },
+        {
+          "term": "UTC",
+          "explanation": "世界共通の時刻の基準です。時差をそろえて時刻を比べるために使われます。"
+        },
+        {
+          "term": "Confirmed",
+          "explanation": "確認された感染者数を表す列の名前です。ここではその日までの累計の人数を示します。"
+        },
+        {
+          "term": "Deaths",
+          "explanation": "死亡者数を表す列の名前です。ここではその日までの累計の人数を示します。"
+        },
+        {
+          "term": "Recovered",
+          "explanation": "回復者数を表す列の名前です。ここではその日までの累計の人数を示します。"
+        },
+        {
+          "term": "ジョンズ・ホプキンズ大学",
+          "explanation": "このデータの基になったダッシュボードやデータ公開を行った大学です。"
+        },
+        {
+          "term": "GitHubリポジトリ",
+          "explanation": "プログラムやデータを共有・保管するためのGitHub上の場所です。ここではCSVファイルが公開されています。"
+        },
+        {
+          "term": "Terms of Use",
+          "explanation": "利用条件のことです。データを使うときに守るべきルールが書かれています。"
+        }
+      ],
+      "url": "https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset",
+      "metricLabel": "▲ 6,327",
+      "secondaryMetric": "ダウンロード 485,065",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 44,
+      "source": "kaggle",
+      "title": "CASMI26 Public Models and Candidate Sets",
+      "headlineJa": "CASMI26 Public Models and Candidate Sets",
+      "summaryJa": "FPNet, LightGBM, ICEBERG, GLACIER, DreaMS weights and candidate sets, credited",
+      "detailJa": "このデータセットは、多くの公開CASMI 2026ノートブックが共有するパイプラインの背後にある公開モデルと候補セットを、出典付きで集めたもので、1つのノートブックでオフラインで動かすことを目的としている。収録内容は、FPNetのフィンガープリントモデル、LightGBMランカー、スペクトルシミュレーターのICEBERGとGLACIER、DreaMS、訓練セット・COCONUT・PubChem・ChEBI・LIPID MAPS・PubChemLite由来の候補構造、RDKitインストーラーである。データサイズは約20,082,868,365バイトで、データセット全体のライセンスはCC BY-NC-SA 4.0とされているが、個々のファイルは作者・ライセンス・チェックサム付きで保持されており、FPNetなど一部はOtherや競技データの条件が示されている。パイプラインは、分子のニュートラルマスの10 ppm以内にある既知構造を候補とし、FPNetがスペクトルから構造的特徴を予測してフィンガープリントの一致度で評価し、LightGBMランカーがフィンガープリントの一致度とライブラリスペクトルとの類似度などの証拠を1つのスコアに統合する。さらにICEBERGとGLACIERが上位候補のスペクトルをシミュレーションし、実測スペクトルに似ている候補を上位に上げ、最終的に最大25構造を良い順に回答する。異なる候補セットとモデルを持つ2つのエンジンが並行して動き、PubChem検索が主要な候補プールの外からの提案を加え、それらのリストはスペクトルチェックの前に統合される。FPNetには3つのチェックポイントがあり、1つはメインエンジン用に全訓練データで訓練され、残りのペアはPubChem検索用とされ、セカンドエンジン用のフィンガープリントモデルは6,930ビットのフィンガープリントを予測する。なお、1つのスペクトル-構造モデルを除き、すべてのファイルは公開Kaggleリソースの変更されていないコピーと説明されている。",
+      "strengthsJa": "強みは、FPNetによるフィンガープリント照合、LightGBMによる統合ランキング、ICEBERGとGLACIERによるスペクトルシミュレーションの照合という複数の段階を組み合わせ、候補を絞り込みながら検証する設計にある。異なる候補セットとモデルを持つ2つのエンジンを並行させ、PubChem検索による外部提案もスペクトルチェック前に統合する点も、単一の候補プールに依存しない工夫といえる。公開モデルと候補セットを出典付きで1か所に集め、1つのノートブックでオフラインで実行できる形にしているため、個別に集める手間を省ける。ただし、公開情報にはベンチマークなどの性能数値が示されていないため、精度面での優位性は公開情報からは確認できない。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "FPNet",
+          "explanation": "スペクトルから分子の構造的特徴を予測するモデル。フィンガープリントと呼ばれる、あるかないかの特徴の一覧を出力する。"
+        },
+        {
+          "term": "LightGBM",
+          "explanation": "決定木を基にした機械学習の手法とライブラリ。ここでは複数の証拠を1つのランキング用スコアにまとめるのに使われる。"
+        },
+        {
+          "term": "ICEBERG",
+          "explanation": "候補となる分子のスペクトルをシミュレーションで予測するモデル。実測スペクトルと比べることで、候補の確からしさを確かめる。"
+        },
+        {
+          "term": "GLACIER",
+          "explanation": "ICEBERGと同様に、候補となる分子のスペクトルをシミュレーションするモデル。実測との一致度で候補を並べ替えるのに使われる。"
+        },
+        {
+          "term": "DreaMS",
+          "explanation": "このデータセットに学習済みの重みが収録されているモデルの一つ。スペクトルから構造を推定するパイプラインで使われるものとしてまとめられている。"
+        },
+        {
+          "term": "フィンガープリント",
+          "explanation": "分子が持つ構造的特徴を、あるかないかの一覧で表したもの。特定の部分構造があるかどうかを、ビットなどで示す。"
+        },
+        {
+          "term": "CASMI 2026",
+          "explanation": "スペクトルから分子の構造を推定する課題の2026年版。ここでは、その公開ノートブックで共有されるパイプラインが対象になっている。"
+        },
+        {
+          "term": "PubChem",
+          "explanation": "化学物質の情報を集めた公開データベース。ここでは候補構造の出所の一つであり、検索で外部の提案も得られる。"
+        },
+        {
+          "term": "COCONUT",
+          "explanation": "天然物などの化学構造を集めたデータベース。ここでは候補構造の出所の一つとして挙げられている。"
+        },
+        {
+          "term": "ChEBI",
+          "explanation": "化学物質に関する情報をまとめたデータベース。ここでは候補構造の出所の一つとして挙げられている。"
+        },
+        {
+          "term": "LIPID MAPS",
+          "explanation": "脂質に関する情報を集めたデータベース。ここでは候補構造の出所の一つとして挙げられている。"
+        },
+        {
+          "term": "PubChemLite",
+          "explanation": "PubChemに関連する候補構造の集合の一つ。ここでは候補構造の出所の一つとして挙げられている。"
+        },
+        {
+          "term": "RDKit",
+          "explanation": "化学構造を扱うためのオープンソースのツールやライブラリ。ここでは、そのインストーラーがデータセットに含まれている。"
+        },
+        {
+          "term": "ニュートラルマス",
+          "explanation": "電荷を持たない中性の分子の質量。候補を選ぶ際の基準となる質量のこと。"
+        },
+        {
+          "term": "チェックポイント",
+          "explanation": "学習済みモデルの重みなどを保存したファイル。後で読み込んで、そのモデルを再び使うことができる。"
+        }
+      ],
+      "url": "https://www.kaggle.com/datasets/dmitriigluzdov/casmi26-attributed-v4g-reproduction-assets",
+      "metricLabel": "▲ 33",
+      "secondaryMetric": "ダウンロード 117,738",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    },
+    {
+      "id": 45,
+      "source": "kaggle",
+      "title": "Trending YouTube Video Statistics",
+      "headlineJa": "Trending YouTube Video Statistics",
+      "summaryJa": "Daily statistics for trending YouTube videos",
+      "detailJa": "「Trending YouTube Video Statistics」は、YouTubeの急上昇動画について日次で記録したデータセットである。収録対象は当初US、GB、DE、CA、FRの5地域で、その後RU、MX、KR、JP、INの5地域が同じ期間について追加された。各地域のデータは別ファイルに分かれており、1日あたり最大200件の急上昇動画が掲載されている。収録項目は動画タイトル、チャンネルタイトル、公開日時、タグ、視聴回数、高評価数と低評価数、説明文、コメント数に加え、地域によって異なるcategory_idである。category_idに対応するカテゴリは、関連するJSONファイルで確認できる。数か月分のデータが収録されており、データサイズは約539,220,890バイトである。このデータセットはYouTube APIを用いて収集され、収集に使われたソースコードがGitHubで公開されているほか、以前のデータセットを構造的に改善した版と説明されている。ライセンスはCC0: Public Domainである。",
+      "strengthsJa": "USやGBなど当初5地域に加え、RUやJPなど5地域が追加され、1日最大200件を数か月分、日次で記録しているため、地域間比較や時系列の統計分析に使いやすい構成である。タイトルやタグ、視聴回数、高評価・低評価数、コメント数、説明文など、動画の人気や内容に関わる項目がそろっており、説明文に挙げられた感情分析や動画の分類、人気要因の分析といった用途に沿った検討ができる。category_idは地域で異なるものの、対応するJSONファイルでカテゴリを確認できる仕組みが用意されている。ライセンスがCC0: Public Domainであり、収集にYouTube APIが使われ、収集用ソースコードも公開されているため、出典や収集方法を確認したうえで利用しやすい。",
+      "usageJa": "元のページで詳細を確認し、自分のプロジェクトや学習テーマに合うか試してみましょう。",
+      "usageIdeas": [],
+      "terms": [
+        {
+          "term": "YouTube",
+          "explanation": "世界中で使われている動画共有サイト。利用者が動画を投稿し、他の人が視聴やコメントができる。"
+        },
+        {
+          "term": "YouTube API",
+          "explanation": "YouTubeのデータをプログラムから取得したり操作したりするための仕組み。人が画面で見る代わりに、プログラムが決まった方法でYouTubeとやり取りできる。"
+        },
+        {
+          "term": "category_id",
+          "explanation": "動画が属するカテゴリを数字で表した項目。同じ数字でも地域によって意味が異なる場合がある。"
+        },
+        {
+          "term": "JSON",
+          "explanation": "データを文字で表すための形式の一つ。項目名と値を組み合わせて書き、プログラムで読み取りやすいようになっている。"
+        },
+        {
+          "term": "CC0: Public Domain",
+          "explanation": "権利者が著作権などの権利を放棄し、誰でも自由に利用できる状態にしたことを示す表示。"
+        },
+        {
+          "term": "GitHub",
+          "explanation": "ソースコードなどを公開・共有するためのウェブサイト。プログラムの置き場所として広く使われている。"
+        },
+        {
+          "term": "ソースコード",
+          "explanation": "プログラムの元になる、人間が読める命令文の集まり。コンピューターが動くための設計図のようなもの。"
+        },
+        {
+          "term": "タグ",
+          "explanation": "動画の内容や特徴を表すために付けられたキーワード。検索や分類の手がかりになる。"
+        },
+        {
+          "term": "視聴回数",
+          "explanation": "動画が再生された回数。どれだけ見られたかを示す数字。"
+        },
+        {
+          "term": "コメント数",
+          "explanation": "動画に寄せられたコメントの数。視聴者の反応の量を示す目安になる。"
+        },
+        {
+          "term": "感情分析",
+          "explanation": "文章などから、好意的か否定的かといった感情や意見の傾向を読み取る分析。"
+        },
+        {
+          "term": "時系列",
+          "explanation": "時間の順序に沿って並べたデータや、その変化を見る考え方。"
+        },
+        {
+          "term": "統計分析",
+          "explanation": "たくさんのデータを集計し、傾向や関係を調べる分析方法。"
+        }
+      ],
+      "url": "https://www.kaggle.com/datasets/datasnaek/youtube-new",
+      "metricLabel": "▲ 6,047",
+      "secondaryMetric": "ダウンロード 322,931",
+      "tags": [],
+      "language": null,
+      "growthRate": null
+    }
+  ]
+}
